@@ -1,6 +1,6 @@
 package com.CartPlusOne.beans;
 
-public class Student 
+public class CartPlusOne
 {
 	private String sid;
 	private String sname;
